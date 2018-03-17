@@ -1,3 +1,14 @@
-# My-learning-curve
-My repository with learning code, some tryouts
-I've entered some text here
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <script src="/js/script.js"></script>
+</head>
+<body>
+    
+    Hello world!
+    
+</body>
+</html>
