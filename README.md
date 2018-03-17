@@ -4,11 +4,14 @@
     <meta charset="UTF-8">
     <title>Title</title>
     <link rel="stylesheet" href="../css/style.css">
-    <script src="/js/script.js"></script>
+
 </head>
 <body>
     
     Hello world!
+    
+    <div style="margin:0 auto; background:yellow">Hello there </div>
+    
     
 </body>
 </html>
